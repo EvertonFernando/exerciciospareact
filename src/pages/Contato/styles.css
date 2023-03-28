@@ -39,11 +39,13 @@
     font-size: medium;
     min-height: 50px;
     width: 400px;
+    background-color: navy;
+    color: #fff;
 }
 
 .btn-custom:hover {
     cursor: pointer;
-    background-color:gray;
+    background-color:rgb(43, 7, 250);
     border-color: #fff;
     color: #fff;
 }
