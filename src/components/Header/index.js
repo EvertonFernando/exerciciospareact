@@ -7,7 +7,7 @@ const Header = () => {
             <h1>Modelos de celulares 5G Motorola</h1>
             <ul>
                 <li><Link to='/'><a>Home</a></Link></li>
-                <li><Link to='/produtos'><a>Produtos</a></Link></li>
+                <li><Link to='/produtos'><a>Modelos</a></Link></li>
                 <li><Link to='/contato'><a>Contato</a></Link></li>
             </ul>
         </main>

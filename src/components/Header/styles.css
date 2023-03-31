@@ -1,11 +1,11 @@
 .main-header {
-    background-color: navy;
+    background-color:#001428;
     color: #fff;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    height: 80px;
-    padding: 0 7%;
+    /*align-items: center;*/
+    height: 120px;
+    padding: 10px 7%;
 }
 
 .main-header ul {
